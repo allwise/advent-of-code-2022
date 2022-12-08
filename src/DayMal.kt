@@ -1,8 +1,8 @@
 
 fun main() {
     fun part1(input: List<String>): String {
-        val stacks = Stacking(input)
-        return stacks.process()
+        val mal = DayMal(input)
+        return mal.process()
 
     }
 

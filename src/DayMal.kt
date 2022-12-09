@@ -18,7 +18,7 @@ fun main() {
     check(part2(testInput) == "MCD")
 
 
-    val input = readInput("Day05")
+    val input = readInput("Day09")
     println(part1(input))
     println(part2(input))
 }
